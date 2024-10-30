@@ -18,7 +18,7 @@ Clone the repository: git clone https://github.com/acey3/odin-recipes.git
 Navigate to the project directory: cd odin-recipes
 Install the necessary dependencies: npm install
 Start the server: npm start
-Open your browser and visit http://localhost:3000 to see the website.
+Open your browser and visit http://localhost:5500 to see the website.
 Contributing
 We welcome contributions! If you'd like to help improve Odin Recipes, please fork the repository and submit a pull request. Make sure to follow the coding standards and include tests for any new features.
 
